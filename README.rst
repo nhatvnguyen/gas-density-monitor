@@ -1,9 +1,5 @@
-Template for the Read the Docs tutorial
+Welcome to the Gas Density Monitor Project!
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This is my final project for the EENG260: Microcontroller Systems course at Eastern Washington University. This project represents a feature widely used in high-voltage circuit breakers to remotely monitor SF6 gas density in real-time.
+Please check the documentation here: https://gas-density-monitor.readthedocs.io/en/stable/
