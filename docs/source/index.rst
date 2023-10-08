@@ -1,19 +1,10 @@
-Welcome to Lumache's documentation!
+Welcome to the Gas Density Monitor's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-.. note::
-
-   This project is under active development.
-
-Contents
+This project is a simplified Sulfur Hexafluoride (SF 6) gas density monitor using the provided hardware
+with a Tiva C evaluation board in EENG260: Microcontroller Systems at Eastern Washington University.
+Using the provided hardware modules, including a 3-digit, 7-segment display, potentiometers, and LED drivers to create a simplified SF6 gas
+density monitor, simulating those used in the energy industry.
 --------
 
 .. toctree::
