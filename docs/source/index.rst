@@ -10,4 +10,5 @@ density monitor, simulating those used in the energy industry.
 .. toctree::
 
    usage
-   api
+   API
+   Docs
