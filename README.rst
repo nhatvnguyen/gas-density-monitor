@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+Gas Density Monitor Project
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Welcome to the project! This project uses the TI TM4C123G with the provided hardware from the instructor to mimic the SF6 Circuit Breaker that is used widely in the power industry.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Please check it here: 
+https://gas-density-monitor.readthedocs.io/en/stable/
